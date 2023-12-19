@@ -11,7 +11,8 @@ namespace C_basicPracticeExc
         static void Main(string[] args)
         {
             // PrimitiveTypesExpressions.Doit();
-            ControlFlow.SwitchLoop();
+            //ControlFlow.SwitchLoop();
+            HandlingDates.DateHandel();
             Console.Read();
         }
     }
