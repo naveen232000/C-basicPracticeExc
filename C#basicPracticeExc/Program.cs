@@ -12,7 +12,8 @@ namespace C_basicPracticeExc
         {
             // PrimitiveTypesExpressions.Doit();
             //ControlFlow.SwitchLoop();
-            HandlingDates.DateHandel();
+            //HandlingDates.DateHandel();
+            WorkingwithText.WithText();
             Console.Read();
         }
     }
